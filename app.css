@@ -1,0 +1,15 @@
+div{
+    border: 1px solid black;
+    width:300px;
+    height: 400px;
+    background-color: goldenrod;
+    background-size: 300px 400px;
+    background-repeat: no-repeat;
+}
+
+#boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
